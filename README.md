@@ -104,22 +104,6 @@ This demonstrates how administrators can monitor access to sensitive resources a
 
 ---
 ## Screenshots
-
-### Creating Users
-![Create User](screenshots/create-user.png)
-
-### Security Group Configuration
-![Groups](screenshots/group-membership.png)
-
-### NTFS Permissions
-![Permissions](screenshots/ntfs-permissions.png)
-
-### Access Denied Test
-![Access Denied](screenshots/access-denied.png)
-
-### Security Event Log
-![Event Viewer](screenshots/event-viewer.png)
-
 Screenshots demonstrating the configuration process will be included in the `screenshots` folder.
 
 Examples include:
