@@ -46,9 +46,9 @@ Each department folder is restricted so that only the corresponding group can ac
 
 | User | Department |
 |-----|-----|
-| hr_user | HR |
-| finance_user | Finance |
-| it_user | IT |
+| Derek Jeter | HR |
+| Alex Rodriguez | Finance |
+| Babe Ruth | IT |
 
 ---
 
@@ -56,9 +56,9 @@ Each department folder is restricted so that only the corresponding group can ac
 
 | Group | Members |
 |-----|-----|
-| HR | hr_user |
-| Finance | finance_user |
-| IT | it_user |
+| HR | Derek Jeter |
+| Finance | Alex Rodriguez |
+| IT | Babe Ruth |
 
 Users are placed into groups, and groups control access to resources.
 
