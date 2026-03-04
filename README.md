@@ -16,6 +16,16 @@ This lab was built using a virtualized Windows Server environment.
 - Server Manager
 
 ---
+Lab Objectives
+
+- Create users representing employees
+- Create department security groups
+- Assign users to groups
+- Configure folder permissions
+- Test access control
+- Investigate security logs
+
+---
 
 ## Lab Environment
 Host Machine:
@@ -73,6 +83,15 @@ User → Group → Folder
 
 This approach simplifies management and follows enterprise security best practices.
 
+---
+
+## Security Auditing
+
+Object access auditing was enabled using Local Security Policy to monitor file system activity.
+
+After configuring auditing on the Company directory, the Windows Security log generated Event ID 4663, confirming that access attempts to file system objects were being recorded.
+
+This demonstrates how administrators can monitor access to sensitive resources and investigate permission-related activity using Event Viewer.
 ---
 ## Skills Demonstrated
 
