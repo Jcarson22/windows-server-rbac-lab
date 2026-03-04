@@ -2,7 +2,7 @@
 Windows Server 2022 lab demonstrating role-based access control (RBAC), user/group management, and NTFS permissions.
 
 ## Overview
-This lab demonsrates how to implement **Role-Based Access Control (RBAC)** using NTFS permissions on a Windows file server.
+This lab demonstrates how to implement **Role-Based Access Control (RBAC)** using NTFS permissions on a Windows file server.
 The objective was to simulate a company file server where departments can only access their own data. Users are assigned to security groups, and groups control access to folders.
 This lab was built using a virtualized Windows Server environment.
 
